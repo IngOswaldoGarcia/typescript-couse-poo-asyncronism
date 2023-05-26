@@ -1,0 +1,6 @@
+#Commands to init project
+npm init -y
+npx tsc --init
+npm i ts-node -D
+
+#uncomment line outDir in file tsconfig.json
