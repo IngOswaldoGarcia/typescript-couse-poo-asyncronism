@@ -4,3 +4,6 @@ npx tsc --init
 npm i ts-node -D
 
 #uncomment line outDir in file tsconfig.json
+#to transpile or convert files from ts to js
+
+npx tsc src/filename.ts
