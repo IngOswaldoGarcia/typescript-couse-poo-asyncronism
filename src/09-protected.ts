@@ -1,6 +1,6 @@
 export class Animal {
   constructor(protected name: string){}
-  protected move(){
+  move(){
     console.log("Moving along!");
   }
 
