@@ -11,3 +11,7 @@ npx tsc
 
 #To execute file
 npx ts-node ./file.ts
+
+
+#To convert Json to types go to
+quicktype.io
