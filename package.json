@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/IngOswaldoGarcia/typescript-couse-poo-asyncronism#readme",
   "devDependencies": {
+    "@faker-js/faker": "^8.0.2",
     "ts-node": "^10.9.1",
     "typescript": "^5.0.4"
   },
